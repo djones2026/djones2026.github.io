@@ -1,0 +1,42 @@
+<html lang ="en">
+    <head>
+
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+            <section>
+                <h3> About the home</h3>
+                <p> <strong> Step inside this thoughtfully renovated three-bedroom bungalow, where timeless charm meets bespoke detail. Golden pine wood floors set a warm foundation throughout, filling each room with natural character and an inviting glow. On the main level, you'll find a brick fireplace with a gas insert for ultimate convenience, a newly reimagined wet room offers spa-like relaxation with a sleek rain shower, moody designer wallpaper, and a window thoughtfully added to bring in natural light.</strong></p>
+                <p>The kitchen is both functional and stylish, featuring a cozy coffee nook and custom tilework, while the adjoining mudroom—an inspired addition off the home's original exterior-boasts an elegant arched doorway and artisan tile across both backsplash and floor. Upstairs, you'll find a beautifully updated full bath, wrapped in striking forest-green tile and ounded by moden ark hexagon fouring, Fach bedroom offers ample storage with generously ized closets, ensuring a place for everything. Outdoors, the private backyard </p>
+                <p>The native flower garden has been planted around the perimeter of the brick patio for added privacy and enchantment. An oversized two-car garage provides abundant space fo vehicles, storage, or a workshop. Natural light fills this home from every angle, accentuating its thoughtful design and creating an airy, uplifting atmospher </p>
+                <p>This home is a rare blend of custom craftsmanship, modern updates, and community spirit —ready to welcome its next chapter. A full list of updates is included in the disclosures.</p>
+            </section>
+            <section>
+                <h3>About the neighborhood</h3>
+                <p> Beyond the property,
+                    Lauraville offers a true sense of community, with its beloved farmers market in the warmer months, easy access to greenspaces like Herring Run Park and Double Rock Park, and a thriving local scene along Main Street. From garden and home goods at Margaret Cleveland to cozy meals at Silver Queen and Maggie's Farm, the
+                    neighborhood provides both connection and convenience.
+                </p>
+            </section>
+            <section>
+                <h3> Key Details</h3>
+                <ul>
+                    <li><b>Bedrooms:</b> 3</li>
+                    <li><b>Bathrooms:</b> 1.5</li>
+                    <li><b>Neighborhood:</b> Lauraville</li>
+                    <li><b>Year built:</b> 1935</li>
+                    <li><b>Parking</b> 2-car garage </li>
+                    <li><b>Price/sq. ft</b> $214</li>
+                    <li><b>Property type: </b>Single-Family home</li>
+                    <li><b>Lot size:</b>6,499 sq. ft</li>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <a href="https://www.redfin.com/MD/Batlimore/5009-Cataplha-Rd-21214/home/1114374"> Listed by Amanda Dukhart
+            </a>
+        </footer>
+    </body>
+</html>
