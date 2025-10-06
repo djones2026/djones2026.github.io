@@ -1,17 +1,4 @@
-  /* 
-  font-family: "Signika", sans-serif;
-  font-family: "Epunda Sans", sans-serif; 
-
-  blue: 013146
-  lt blue: BCF7FF
-  dk blue: 7DE7F7
-  red: C52804
-  yellow: FCB11D
-  
-  */
-
-
-  body {
+body {
       /* TO DO: font family + fallback, reset margin to 0*/
       font-family: "Signika", sans-serif;
       font-family:"Epunda Sans", sans-serif;
